@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ilya Turner</h1>
-<h3 align="center">I am a Computer Engineer currently trying to learn Rust with Embedded Systems</h3>
 
 - 🔭 I’m currently working on [Automated Greenhouse](https://github.com/ilturne/BotaniCare)
 
