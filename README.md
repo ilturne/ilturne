@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilya Turner</h1>
 <h3 align="center">I am a Computer Engineer currently trying to learn Rust with Embedded Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilturne" alt="ilturne" /></a> </p>
-
 - 🔭 I’m currently working on [Automated Greenhouse](https://github.com/ilturne/BotaniCare)
 
 - 🌱 I’m currently learning **Networking tools and Python for Data Analysis**
